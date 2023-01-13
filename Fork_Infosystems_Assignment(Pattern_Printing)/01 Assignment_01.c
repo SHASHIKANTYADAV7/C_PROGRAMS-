@@ -18,7 +18,7 @@ int main()
 
         for(r = 1; r <= Cnt; r++)
         {
-            for(c =1; c <= Cnt; c++)
+            for(c = 1; c <= Cnt; c++)
             {
                 if(r >= c)
                 {
