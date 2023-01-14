@@ -24,6 +24,10 @@ int main()
                 {
                     printf("%c",ch);
                 }
+                else
+                {   
+                    printf("   ");
+                }
                 ch++;
             }
             printf("\n");
