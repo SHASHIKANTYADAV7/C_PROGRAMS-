@@ -23,8 +23,8 @@ int main()
                {
                    printf("   ");
                }
-         }
-         printf("\n");
+Â Â Â Â Â Â Â Â   Â }
+           printf("\n");
       }
 
        getch();
